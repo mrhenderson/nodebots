@@ -1,0 +1,23 @@
+{
+  "name": "nodebots",
+  "version": "1.0.0",
+  "description": "Node.js Arduino + RaspberryPi (optional)",
+  "main": "QSButton.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrhenderson/nodebots.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrhenderson/nodebots/issues"
+  },
+  "homepage": "https://github.com/mrhenderson/nodebots#readme",
+  "dependencies": {
+    "johnny-five": "^1.1.0",
+    "socket.io": "^2.2.0"
+  }
+}
